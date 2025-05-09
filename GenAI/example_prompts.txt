@@ -1,0 +1,58 @@
+# LinkedIn Analytics - Example AI Prompts
+
+## Profile View Analysis
+
+I've uploaded my LinkedIn profile analytics data. Please analyze the profile views section and tell me:
+1. What are the trends in my profile views over time?
+2. Are there any specific days or weeks where I received significantly more views?
+3. What industries and job roles are most commonly viewing my profile?
+4. How can I optimize my profile to attract more relevant viewers based on this data?
+5. What correlations do you see between my posting activity and profile view spikes?
+
+## Content Performance Deep Dive
+
+Based on the LinkedIn analytics data I've uploaded, please provide a detailed analysis of my content performance:
+1. Which of my posts generated the highest engagement and why?
+2. What types of content (text, images, documents, polls) perform best for my audience?
+3. Is there an optimal length for my posts based on engagement metrics?
+4. What topics seem to resonate most with my network?
+5. What posting schedule would you recommend based on when my content receives the most engagement?
+6. How does my engagement rate compare to typical benchmarks in my industry?
+
+## Strategic Growth Planning
+
+Using my LinkedIn analytics data, help me create a strategic growth plan:
+1. Based on who's viewing my profile, what industries or companies should I focus on networking with?
+2. What content gaps exist in my current posting strategy?
+3. What skills or experiences should I highlight more prominently on my profile?
+4. How can I leverage my current engagement patterns to grow my network more effectively?
+5. What metrics should I prioritize improving over the next 3 months?
+6. Create a content calendar template with topic suggestions based on my historical performance.
+
+## Audience Insights
+
+Analyze my LinkedIn analytics data to provide insights about my audience:
+1. What is the demographic breakdown of my audience?
+2. Which companies and industries are most represented among my viewers?
+3. What seniority levels are engaging with my content the most?
+4. How does my audience differ from my connections?
+5. What content would be most valuable to my specific audience based on their profiles?
+6. How can I better tailor my messaging to resonate with my core audience?
+
+## Competitive Analysis
+
+Based on my LinkedIn analytics data:
+1. How does my engagement rate compare to typical benchmarks?
+2. What content strategies might help me stand out in my industry?
+3. What metrics indicate I'm outperforming or underperforming compared to others?
+4. What unique value proposition is evident from my engagement patterns?
+5. How can I differentiate my professional brand based on this data?
+
+## Career Opportunity Identification
+
+Analyze my LinkedIn analytics to identify potential career opportunities:
+1. Based on who's viewing my profile, what job roles might be available to me?
+2. What skills should I develop to attract more attention from my target companies?
+3. Which of my experiences or skills are generating the most interest?
+4. How can I position myself for advancement in my current field?
+5. What content should I create to signal my expertise for my desired career path?

@@ -32,7 +32,6 @@ LinkedIn allows you to export analytics data from your personal profile. Follow 
 Each folder contains examples for analyzing different aspects of your LinkedIn analytics data. Choose the programming language you're most comfortable with and follow the instructions in the respective folders.
 
 ## Sponsored by Professional Profile Analytics
-
 <a href="https://www.linkedin.com/company/professional-profile-analytics/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 

@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/Welcome-To-LinkedIn-Analytics-Self-Service(1).png)](https://gamma.app/docs/Welcome-to-LinkedIn-Analytics-Self-Service-umj809rmokr9pd6)
+[![GitHub Banner](./assets/Welcome-To-LinkedIn-Analytics-Self-Service(1).png)](https://github.com/Professional-Profile-Analytics/LinkedIn-Analytics-Self-Service/blob/main/assets/Welcome-to-LinkedIn-Analytics-Self-Service%20(1).png)
 
 
 # LinkedIn-Analytics-Self-Service

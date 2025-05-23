@@ -1,3 +1,5 @@
+![Welcome-to-LinkedIn-Analytics-Self-Service](./assets/Welcome-to-LinkedIn-Analytics-Self-Service(1).png)
+
 # LinkedIn-Analytics-Self-Service
 
 This repository provides tools and examples to help you analyze your LinkedIn profile analytics data using different programming languages and approaches.

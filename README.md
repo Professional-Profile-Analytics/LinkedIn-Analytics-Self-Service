@@ -2,8 +2,6 @@
 
 This repository provides tools and examples to help you analyze your LinkedIn profile analytics data using different programming languages and approaches.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinkedIn-Analytics-Self-Service&theme=tokyonight&show_icons=true)
-
 ## Repository Structure
 
 - **GenAI/**: Example prompts for analyzing LinkedIn analytics data with AI tools

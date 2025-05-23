@@ -33,6 +33,9 @@ Each folder contains examples for analyzing different aspects of your LinkedIn a
 
 ## Sponsored by Professional Profile Analytics
 
+<a href="https://www.linkedin.com/company/professional-profile-analytics/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 The examples in this repository provide basic analysis capabilities. For more advanced analytics, visualization, and insights, check out [Professional Profile Analytics (PPA)](https://ppa.guide).
 
 PPA helps professionals grow on LinkedIn with:
